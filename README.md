@@ -3,7 +3,7 @@
 <!--
 **MadisonFernandez/MadisonFernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Get to know me:
 
 - 🔭 I’m a WRTC major and Digital Studies Minor at James Madison University
 - 🌱 I’m currently learning HTML language, data analysis techniques, and content management systems
