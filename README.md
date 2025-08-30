@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Madison. 
+# 👋 Hi there, I'm Madison. 
 I'm a Writing, Rhetoric, and Technical Communications major and a Digital Studies minor at James Madison University. I am expected to graduate in May, 2026. My coursework has taught me valuable skills that I hope to apply to my future career. 
 ## About Me:
 - 🔭 I’m a WRTC major and Digital Studies Minor at James Madison University
