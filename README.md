@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Madison. 
-# Get to know me!
+## Get to know me!
 - 🔭 I’m a WRTC major and Digital Studies Minor at James Madison University
 - 🌱 I’m currently learning HTML language, data analysis techniques, and content management systems
 - 🤝 I’m looking to collaborate on digital content projects, research writing, and data-driven storytelling
