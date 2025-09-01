@@ -10,10 +10,10 @@ I'm a Writing, Rhetoric, and Technical Communications major and a Digital Studie
 - Adobe Indesign
 - Meta Business Suite
 - Figma
-## How to Contact Me:
-You can email me at madisonrae654@gmail.com, or message me on my socials!
+## Contact Information
+- Email: madisonrae654@gmail.com
 - LinkedIn Profile: [Madison-fernandez](www.linkedin.com/in/madison-fernandez)
-- Handshake Profile: https://jmu.joinhandshake.com/profiles/madisonfernandez
+
 
 ![GitHub Logo](images/github-logo.jpg "GitHub Logo")
 
