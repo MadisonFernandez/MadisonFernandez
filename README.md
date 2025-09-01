@@ -15,5 +15,5 @@ You can email me at madisonrae654@gmail.com, or message me on my socials!
 - LinkedIn: @Madison-fernandez
 - Handshake Profile: https://jmu.joinhandshake.com/profiles/madisonfernandez
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+![GitHub Logo](images/github-logo.jpg "GitHub Logo")
 
