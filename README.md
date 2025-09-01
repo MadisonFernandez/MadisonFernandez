@@ -10,8 +10,7 @@ I'm a Writing, Rhetoric, and Technical Communications major and a Digital Studie
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-- Meta Business Suite
-- Figma
+
 ## Contact Information
 - Email: madisonrae654@gmail.com
 - LinkedIn Profile: [Madison-fernandez](www.linkedin.com/in/madison-fernandez)
