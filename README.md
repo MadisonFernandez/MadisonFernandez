@@ -4,6 +4,12 @@ I'm a Writing, Rhetoric, and Technical Communications major and a Digital Studie
 - 🌱 I’m currently learning HTML language, data analysis techniques, and content management systems
 - 🤝 I’m looking to collaborate on digital content projects, research writing, and data-driven storytelling
 - 📸 Fun fact: I'm a photographer! I love landscape photography and group photoshoots
+## Technical Skills
+- Adobe Photoshop
+- Adobe Lightroom
+- Adobe Indesign
+- Meta Business Suite
+- Figma
 ## How to Contact Me:
 You can email me at madisonrae654@gmail.com, or message me on my socials!
 - LinkedIn: @Madison-fernandez
