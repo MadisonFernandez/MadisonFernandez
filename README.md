@@ -6,7 +6,7 @@ I'm a Writing, Rhetoric, and Technical Communications major and a Digital Studie
 - 📸 Fun fact: I'm a photographer! I love landscape photography and group photoshoots
 ## How to Contact Me:
 You can email me at madisonrae654@gmail.com, or message me on my socials!
-LinkedIn: @Madison-fernandez
-Handshake Profile: https://jmu.joinhandshake.com/profiles/madisonfernandez
+- LinkedIn: @Madison-fernandez
+- Handshake Profile: https://jmu.joinhandshake.com/profiles/madisonfernandez
 
 
