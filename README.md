@@ -12,7 +12,8 @@ I'm a Writing, Rhetoric, and Technical Communications major and a Digital Studie
 - Figma
 ## How to Contact Me:
 You can email me at madisonrae654@gmail.com, or message me on my socials!
-- LinkedIn: @Madison-fernandez
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0dd53a55-36dc-45f1-af65-fb0c8227e1de" />
+LinkedIn: @Madison-fernandez
 - Handshake Profile: https://jmu.joinhandshake.com/profiles/madisonfernandez
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
